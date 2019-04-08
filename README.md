@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
 Things you may want to cover:
 
-* Ruby version
+Ruby version: 2.5.3
 
-* System dependencies
+System dependencies : MacOS highly recommended. But I managed to do built it on Windows :P
 
-* Configuration
 
-* Database creation
+Acknowledements: This is my firt ever website building attempt. Thanks to Invoco-Director of engineering -Caitlyn for organising a workshop at Athenahacks2019 and for all her patience while I even struggled to get the ruby on rails running at my Windows system :)
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
